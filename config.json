@@ -1,9 +1,9 @@
 { 
-	"applicationID": "Your application ID",
- 	"name": "Title",
- 	"details": "Description",
- 	"state": "Footer",
-        "type": "(choose one) PLAYING, LISTENING, STREAMING, WATCHING"
- 	"largeImage": "Big Image",
-        "smallImage": "Small Image",
+"applicationID": "Your application ID",
+"name": "Title",
+"details": "Description",
+"state": "Footer",
+"type": "(choose one) PLAYING, LISTENING, STREAMING, WATCHING",
+"largeImage": "Big Image Name",
+"smallImage": "Small Image Name"
 }
