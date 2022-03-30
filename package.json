@@ -1,5 +1,5 @@
 {
-  "name": "GrouchyFlashyCodec",
+  "name": "CustomRPC",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,6 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "DerpyDev#0001",
   "license": "ISC"
 }
